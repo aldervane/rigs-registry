@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:43:34.804Z",
+  "generatedAt": "2026-10-11T05:45:49.952Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -285,7 +285,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 54053,
+      "stars": 54101,
       "pushedAt": "2026-10-08T21:51:51Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -301,21 +301,21 @@
       "name": "ECC",
       "tier": "A",
       "listable": true,
-      "publishSha": "4eb71d92a39cab44ad40ac9d8a6a5ccb4029d6c2",
-      "headSha": "4eb71d92a39cab44ad40ac9d8a6a5ccb4029d6c2",
+      "publishSha": "2d515e4fc2ddef97354769812cf3f7b9ec4e5124",
+      "headSha": "2d515e4fc2ddef97354769812cf3f7b9ec4e5124",
       "servingStale": false,
       "health": "ok",
-      "description": "Harness-native ECC plugin for engineering teams - 71 agents, 302 skills, 95 legacy command shims, reusable hooks, rules, MCP conventions, and operator workflows for Claude Code plus adjacent agent harnesses",
+      "description": "Harness-native ECC plugin for engineering teams - 71 agents, 306 skills, 97 legacy command shims, reusable hooks, rules, MCP conventions, and operator workflows for Claude Code plus adjacent agent harnesses",
       "counts": {
-        "skill": 303,
+        "skill": 307,
         "agent": 76,
-        "command": 110,
+        "command": 112,
         "hook": 2,
         "mcp": 1
       },
-      "componentTotal": 492,
-      "rawFileCount": 1806,
-      "droppedMirror": 1163,
+      "componentTotal": 498,
+      "rawFileCount": 1814,
+      "droppedMirror": 1165,
       "warnings": [
         "SEC-02 examples/unified-memory/conformance.cjs at line 212: possible private-key-block (27 chars) [test fixture]",
         "SEC-02 tests/hooks/governance-capture.test.js at line 42: possible openai-project (28 chars) [test fixture]",
@@ -323,7 +323,9 @@
         "SEC-02 tests/hooks/governance-capture.test.js at line 54: possible github-token (40 chars) [test fixture]",
         "SEC-02 tests/hooks/pre-bash-commit-quality.test.js at line 217: possible github-token (40 chars) [test fixture]",
         "SEC-02 tests/hooks/pre-bash-commit-quality.test.js at line 221: possible aws-access-key (20 chars) [test fixture]",
-        "SEC-02 tests/lib/memory-vault.test.js at line 442: possible private-key-block (27 chars) [test fixture]"
+        "SEC-02 tests/lib/memory-vault.test.js at line 442: possible private-key-block (27 chars) [test fixture]",
+        "SEC-02 tests/scripts/codex-hooks.test.js at line 232: possible private-key-block (27 chars) [test fixture]",
+        "SEC-02 tests/scripts/codex-hooks.test.js at line 233: possible private-key-block (31 chars) [test fixture]"
       ],
       "rejectReasons": [],
       "components": [
@@ -690,6 +692,11 @@
           "kind": "command",
           "name": "aside",
           "description": "Answer a quick side question without interrupting or losing context from the current task. Resume work automatically after answering."
+        },
+        {
+          "kind": "command",
+          "name": "astra-review",
+          "description": "Send Claude-written code to GPT-6-Astra (ChatGPT, via Codex CLI) for an independent cross-provider review, then fix what it finds."
         },
         {
           "kind": "command",
@@ -1138,6 +1145,11 @@
         },
         {
           "kind": "command",
+          "name": "skill-host-compat",
+          "description": "Lint ECC skills for Codex/Cursor-safe frontmatter and Claude-only substitutions before a skill PR."
+        },
+        {
+          "kind": "command",
           "name": "test-coverage",
           "description": "Analyze coverage, identify gaps, and generate missing tests toward the target threshold."
         },
@@ -1276,6 +1288,11 @@
         },
         {
           "kind": "skill",
+          "name": "agent-runtime-gateway-smoke-test",
+          "description": "Verify a local agent API, temporary gateway tunnel, and remote sandbox callback with a tool-free task, then restore the original app connection."
+        },
+        {
+          "kind": "skill",
           "name": "agent-security-hardening",
           "description": "Security hardening guidance for AI agent frameworks that process untrusted content, invoke tools, write workspace files, manage runtime identifiers, or handle credentials. Use when building or reviewing an agent runtime, autonomous worker, tool gateway, memory service, or multi-tenant agent deployment. Do not use for general web application security or offensive testing."
         },
@@ -1398,6 +1415,11 @@
           "kind": "skill",
           "name": "brand-voice",
           "description": "Build a source-derived writing style profile from real posts, essays, launch notes, docs, or site copy, then reuse that profile across content, outreach, and social workflows. Use when the user wants voice consistency without generic AI writing tropes."
+        },
+        {
+          "kind": "skill",
+          "name": "brownfield-retrospective",
+          "description": "Run the ECC engineering process retroactively against an existing project slice. Audit current state, reconstruct past decisions, produce a four-axis gap register (thinking, coding practice, missing features, technology selection), then execute fixes forward through the plan-TDD-review pipeline. Use when adopting ECC mid-project, taking over an inherited codebase, or asking what was missed and what would have been built differently from day one."
         },
         {
           "kind": "skill",
@@ -1621,6 +1643,11 @@
         },
         {
           "kind": "skill",
+          "name": "deepseek-harness-setup",
+          "description": "Install and operate Everything Claude Code (ECC) on the DeepSeek Harness (DSH): native skill roots (~/.dsh/skills, .agents/skills), the @deepseek-ai/dsh-hooks-claude-code bridge for command hooks, bare-insert patch mounting, generator usage, event-support limits, and update workflow. Use when setting up ECC on DeepSeek Harness, wiring ECC hooks into a DSH profile, or debugging why ECC skills or hooks do not appear in a DSH session."
+        },
+        {
+          "kind": "skill",
           "name": "defi-amm-security",
           "description": "Security checklist for Solidity AMM contracts, liquidity pools, and swap flows. Covers reentrancy, CEI ordering, donation or inflation attacks, oracle manipulation, slippage, admin controls, and integer math. Use when auditing or writing Solidity AMM, liquidity pool, or swap code."
         },
@@ -1822,7 +1849,7 @@
         {
           "kind": "skill",
           "name": "gateguard",
-          "description": "PreToolUse fact-forcing gate that denies the first Edit/Write/Bash (including MultiEdit) attempt until the agent presents concrete facts (importers, data schemas, verbatim user instruction), then allows retry; A/B-tested at +2.25 quality points. Use when enabling or configuring the GateGuard hook, exempting paths via env vars, or handling first-touch denials."
+          "description": "PreToolUse fact-forcing gate that denies the first Edit/Write/Bash (including MultiEdit and NotebookEdit) attempt until the agent presents concrete facts (importers, data schemas, verbatim user instruction), then allows retry; A/B-tested at +2.25 quality points. Use when enabling or configuring the GateGuard hook, exempting paths via env vars, or handling first-touch denials."
         },
         {
           "kind": "skill",
@@ -2561,6 +2588,11 @@
         },
         {
           "kind": "skill",
+          "name": "skill-host-compat",
+          "description": "Lint ECC skills for Codex/Cursor-safe frontmatter and Claude-only substitutions before a skill PR."
+        },
+        {
+          "kind": "skill",
           "name": "skill-scout",
           "description": "Search existing local, marketplace, GitHub, and web skill sources before creating a new skill. Use when the user wants to create, build, fork, or find a skill for a workflow."
         },
@@ -2785,14 +2817,14 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 276457,
-      "pushedAt": "2026-10-10T01:41:12Z",
+      "stars": 276631,
+      "pushedAt": "2026-10-11T01:15:29Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.866
+      "score": 0.846
     },
     {
       "slug": "ai-plugins",
@@ -3721,7 +3753,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.571
+      "score": 0.57
     }
   ]
 }
