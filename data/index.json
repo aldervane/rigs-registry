@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:45:49.952Z",
+  "generatedAt": "2026-10-11T12:49:16.009Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -285,14 +285,14 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 54101,
+      "stars": 54139,
       "pushedAt": "2026-10-08T21:51:51Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.874
+      "score": 0.873
     },
     {
       "slug": "everything-claude-code",
@@ -301,21 +301,21 @@
       "name": "ECC",
       "tier": "A",
       "listable": true,
-      "publishSha": "2d515e4fc2ddef97354769812cf3f7b9ec4e5124",
-      "headSha": "2d515e4fc2ddef97354769812cf3f7b9ec4e5124",
+      "publishSha": "8ce348fbea0d66f5c49c7b35e8ba8bb143b15132",
+      "headSha": "8ce348fbea0d66f5c49c7b35e8ba8bb143b15132",
       "servingStale": false,
       "health": "ok",
-      "description": "Harness-native ECC plugin for engineering teams - 71 agents, 306 skills, 97 legacy command shims, reusable hooks, rules, MCP conventions, and operator workflows for Claude Code plus adjacent agent harnesses",
+      "description": "Harness-native ECC plugin for engineering teams - 71 agents, 311 skills, 97 legacy command shims, reusable hooks, rules, MCP conventions, and operator workflows for Claude Code plus adjacent agent harnesses",
       "counts": {
-        "skill": 307,
+        "skill": 312,
         "agent": 76,
         "command": 112,
         "hook": 2,
         "mcp": 1
       },
-      "componentTotal": 498,
-      "rawFileCount": 1814,
-      "droppedMirror": 1165,
+      "componentTotal": 503,
+      "rawFileCount": 1827,
+      "droppedMirror": 1169,
       "warnings": [
         "SEC-02 examples/unified-memory/conformance.cjs at line 212: possible private-key-block (27 chars) [test fixture]",
         "SEC-02 tests/hooks/governance-capture.test.js at line 42: possible openai-project (28 chars) [test fixture]",
@@ -1443,6 +1443,11 @@
         },
         {
           "kind": "skill",
+          "name": "change-impact",
+          "description": "Perform evidence-backed impact analysis before changing code, data, interfaces, or governance documents, then compare the planned impact with the actual diff after implementation. Covers call paths, data and schema, API contracts, tests, documentation, ADRs, deployment, migration, and rollback. Use for cross-module or high-risk changes, database migrations, authentication, public interfaces, blast-radius questions, pre-change checks, and post-implementation alignment."
+        },
+        {
+          "kind": "skill",
           "name": "cisco-ios-patterns",
           "description": "Cisco IOS and IOS-XE review patterns for show commands, config hierarchy, wildcard masks, ACL placement, interface hygiene, and safe change-window verification. Use when reading, writing, or reviewing Cisco IOS / IOS-XE configuration or planning a change window."
         },
@@ -1528,8 +1533,13 @@
         },
         {
           "kind": "skill",
+          "name": "context-and-decisions",
+          "description": "Govern stable domain context with a narrowly scoped CONTEXT.md when needed, and route hard-to-reverse decisions to ECC's existing architecture-decision-records skill. Use when domain terms require repeated explanation, one term has multiple meanings, unclear language causes module-boundary mistakes, or domain semantics must remain separate from architecture decisions."
+        },
+        {
+          "kind": "skill",
           "name": "context-budget",
-          "description": "Audits Claude Code context window consumption across agents, skills, MCP servers, and rules. Identifies bloat, redundant components, and produces prioritized token-savings recommendations. Use when the context window is filling up too fast and the agents, skills, MCP servers, or rules consuming it need to be identified."
+          "description": "Routes live context checks to the native Codex or Claude Code meter without scanning files, and performs a bounded static component audit only when explicitly requested. Use for context-budget requests about remaining capacity or installed context overhead."
         },
         {
           "kind": "skill",
@@ -2178,6 +2188,11 @@
         },
         {
           "kind": "skill",
+          "name": "module-regression",
+          "description": "Govern cross-module regression in large repositories with a REGRESSION.md ledger that records each module's downstream consumers and executable acceptance command. After a change, run the changed module and every affected downstream command, and use observed exit codes as regression evidence under the project's delivery policy. Use for module regression, regression ledgers, impact audits, downstream verification, and changes where modifying A may break B."
+        },
+        {
+          "kind": "skill",
           "name": "motion-advanced",
           "description": "Advanced motion patterns for React / Next.js — drag & drop, gestures, text animations, SVG path drawing, custom hooks, imperative sequences (useAnimate), loaders, and the full API decision tree. Requires motion-foundations. Use when building drag and drop, gestures, text or SVG animation, or imperative animation sequences in React or Next.js."
         },
@@ -2633,6 +2648,11 @@
         },
         {
           "kind": "skill",
+          "name": "story-lifecycle",
+          "description": "Manage a file-based epic → story → sprint development loop without requiring an external project management tool. Creates and tracks epics, breaks them into user stories, assigns them to sprints, and drives implementation story by story. Use when starting a new feature initiative or when the team has no Jira/Linear/Taiga but needs structured delivery tracking."
+        },
+        {
+          "kind": "skill",
           "name": "strategic-compact",
           "description": "Suggests manual context compaction at logical intervals to preserve context through task phases rather than arbitrary auto-compaction. Use when a session is approaching a context limit and a task phase is a natural place to compact."
         },
@@ -2700,6 +2720,11 @@
           "kind": "skill",
           "name": "terminal-ops",
           "description": "Evidence-first repo execution workflow for ECC. Use when the user wants a command run, a repo checked, a CI failure debugged, or a narrow fix pushed with exact proof of what was executed and verified."
+        },
+        {
+          "kind": "skill",
+          "name": "test-collaboration",
+          "description": "Inventory and govern a project's test assets. Connect requirements, business rules, risks, bugs, and cross-boundary contracts to stable TEST-IDs and executable evidence in the repository's existing test registry or TESTS.md. Use for test inventory, test gap analysis, unit/integration/contract/E2E/smoke classification, bug-to-test regression protection, consumer/provider contract testing, test-necessity review, and pre-delivery evidence review."
         },
         {
           "kind": "skill",
@@ -2817,8 +2842,8 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 276631,
-      "pushedAt": "2026-10-11T01:15:29Z",
+      "stars": 276846,
+      "pushedAt": "2026-10-11T11:39:35Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
       "isFork": false,
