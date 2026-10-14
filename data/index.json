@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:09:36.441Z",
+  "generatedAt": "2026-10-14T21:40:41.817Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,8 +11,8 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
-      "headSha": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "publishSha": "55ff469422c3592dac45bcad08dfb40221981c02",
+      "headSha": "55ff469422c3592dac45bcad08dfb40221981c02",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
@@ -285,8 +285,8 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 54708,
-      "pushedAt": "2026-10-14T02:51:40Z",
+      "stars": 54738,
+      "pushedAt": "2026-10-14T21:21:00Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
@@ -2842,7 +2842,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 279164,
+      "stars": 279387,
       "pushedAt": "2026-10-12T14:45:46Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3717,7 +3717,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.585
+      "score": 0.584
     },
     {
       "slug": "aikido-claude-plugin",
