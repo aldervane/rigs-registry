@@ -18,7 +18,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/coreyhaines31/marketingskills.git",
-        "sha": "0f8d89961cdf782dd02644b9df3ddc671c21a7f0"
+        "sha": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467"
       }
     },
     {
@@ -64,20 +64,6 @@
       }
     },
     {
-      "name": "alloydb",
-      "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
-      "author": {
-        "name": "GoogleCloudPlatform",
-        "url": "https://github.com/GoogleCloudPlatform"
-      },
-      "homepage": "https://github.com/GoogleCloudPlatform/alloydb-plugin",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
-        "sha": "2954566c7f791d0cef47cabeae76f7a75dd42f2b"
-      }
-    },
-    {
       "name": "agentforce-adlc",
       "description": "Agentforce Agent Development Life Cycle — author, discover, scaffold, deploy, test, secure, and optimize .agent files",
       "author": {
@@ -89,6 +75,20 @@
         "source": "url",
         "url": "https://github.com/SalesforceAIResearch/agentforce-adlc.git",
         "sha": "09bf1539d41f9ff355ba3eb5d05d4a75813423bb"
+      }
+    },
+    {
+      "name": "alloydb",
+      "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
+      "author": {
+        "name": "GoogleCloudPlatform",
+        "url": "https://github.com/GoogleCloudPlatform"
+      },
+      "homepage": "https://github.com/GoogleCloudPlatform/alloydb-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
+        "sha": "2954566c7f791d0cef47cabeae76f7a75dd42f2b"
       }
     },
     {
