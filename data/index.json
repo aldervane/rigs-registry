@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T15:51:35.152Z",
+  "generatedAt": "2026-10-18T20:42:17.574Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -285,7 +285,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 55337,
+      "stars": 55364,
       "pushedAt": "2026-10-15T21:33:21Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2842,7 +2842,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 283060,
+      "stars": 283188,
       "pushedAt": "2026-10-15T19:17:01Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
