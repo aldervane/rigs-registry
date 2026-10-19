@@ -18,7 +18,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/coreyhaines31/marketingskills.git",
-        "sha": "365b412152b9542499ca1439426f7fc3cc92bb65"
+        "sha": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b"
       }
     },
     {
@@ -32,7 +32,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/affaan-m/ECC.git",
-        "sha": "76aaa77df6adc5b889e689007bf99b9a4f74af34"
+        "sha": "6c557856af89a657f846a8ca15907cbdc1e41530"
       }
     },
     {
@@ -116,7 +116,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/AikidoSec/aikido-claude-plugin.git",
-        "sha": "8fdc995a44102a30ad54164e0bdd249d158c725c"
+        "sha": "f62031b7fe1134d0ef992e5d8c639e316b0c577a"
       }
     }
   ]
