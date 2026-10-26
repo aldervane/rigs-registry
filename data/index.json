@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:01:26.196Z",
+  "generatedAt": "2026-10-26T22:39:24.928Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,8 +11,8 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
-      "headSha": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "publishSha": "17772c7a80b7b8c7a47af30f648374cd8bd8adc5",
+      "headSha": "17772c7a80b7b8c7a47af30f648374cd8bd8adc5",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
@@ -212,7 +212,7 @@
         {
           "kind": "skill",
           "name": "paywalls",
-          "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,\" \"upsell,\" \"feature gate,\" \"convert free to paid,\" \"freemium conversion,\" \"trial expiration screen,\" \"limit reached screen,\" \"plan upgrade prompt,\" \"in-app pricing,\" \"free users won't upgrade,\" \"trial to paid conversion,\" or \"how do I get users to pay.\" Use this for any in-product moment where you're asking users to upgrade. Distinct from public pricing pages (see cro) — this focuses on in-product upgrade moments where the user has already experienced value. For pricing decisions, see pricing."
+          "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,\" \"upsell,\" \"feature gate,\" \"convert free to paid,\" \"freemium conversion,\" \"trial expiration screen,\" \"limit reached screen,\" \"plan upgrade prompt,\" \"in-app pricing,\" \"free users won't upgrade,\" \"trial to paid conversion,\" or \"how do I get users to pay,\" \"mobile app paywall,\" \"subscription app paywall,\" or \"App Store subscription pricing.\" Use this for any in-product moment where you're asking users to upgrade. Distinct from public pricing pages (see cro) — this focuses on in-product upgrade moments where the user has already experienced value. For pricing decisions, see pricing."
         },
         {
           "kind": "skill",
@@ -295,14 +295,14 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 56611,
-      "pushedAt": "2026-10-22T16:57:46Z",
+      "stars": 56685,
+      "pushedAt": "2026-10-26T19:16:55Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.876
+      "score": 0.878
     },
     {
       "slug": "everything-claude-code",
@@ -2852,7 +2852,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 289286,
+      "stars": 289770,
       "pushedAt": "2026-10-26T04:56:56Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3564,6 +3564,45 @@
       "score": 0.679
     },
     {
+      "slug": "alloydb",
+      "repo": "GoogleCloudPlatform/alloydb-plugin",
+      "owner": "GoogleCloudPlatform",
+      "name": "alloydb-plugin",
+      "tier": "A",
+      "listable": true,
+      "publishSha": "2954566c7f791d0cef47cabeae76f7a75dd42f2b",
+      "headSha": "2954566c7f791d0cef47cabeae76f7a75dd42f2b",
+      "servingStale": false,
+      "health": "ok",
+      "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
+      "counts": {
+        "skill": 0,
+        "agent": 0,
+        "command": 0,
+        "hook": 0,
+        "mcp": 1
+      },
+      "componentTotal": 1,
+      "rawFileCount": 1,
+      "droppedMirror": 0,
+      "warnings": [],
+      "rejectReasons": [],
+      "components": [
+        {
+          "kind": "mcp",
+          "name": "mcp"
+        }
+      ],
+      "stars": 24,
+      "pushedAt": "2026-10-26T22:10:26Z",
+      "createdAt": "2025-09-12T15:32:54Z",
+      "license": "Apache-2.0",
+      "isFork": false,
+      "isDerivative": false,
+      "stale": false,
+      "score": 0.668
+    },
+    {
       "slug": "agentforce-adlc",
       "repo": "SalesforceAIResearch/agentforce-adlc",
       "owner": "SalesforceAIResearch",
@@ -3644,45 +3683,6 @@
       "score": 0.65
     },
     {
-      "slug": "alloydb",
-      "repo": "GoogleCloudPlatform/alloydb-plugin",
-      "owner": "GoogleCloudPlatform",
-      "name": "alloydb-plugin",
-      "tier": "A",
-      "listable": true,
-      "publishSha": "2954566c7f791d0cef47cabeae76f7a75dd42f2b",
-      "headSha": "2954566c7f791d0cef47cabeae76f7a75dd42f2b",
-      "servingStale": false,
-      "health": "ok",
-      "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
-      "counts": {
-        "skill": 0,
-        "agent": 0,
-        "command": 0,
-        "hook": 0,
-        "mcp": 1
-      },
-      "componentTotal": 1,
-      "rawFileCount": 1,
-      "droppedMirror": 0,
-      "warnings": [],
-      "rejectReasons": [],
-      "components": [
-        {
-          "kind": "mcp",
-          "name": "mcp"
-        }
-      ],
-      "stars": 24,
-      "pushedAt": "2026-09-23T16:24:36Z",
-      "createdAt": "2025-09-12T15:32:54Z",
-      "license": "Apache-2.0",
-      "isFork": false,
-      "isDerivative": false,
-      "stale": false,
-      "score": 0.65
-    },
-    {
       "slug": "alloydb-omni",
       "repo": "GoogleCloudPlatform/alloydb-omni-plugin",
       "owner": "GoogleCloudPlatform",
@@ -3727,7 +3727,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.58
+      "score": 0.579
     },
     {
       "slug": "aikido-claude-plugin",
