@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:50:20.290Z",
+  "generatedAt": "2026-10-26T04:46:12.355Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -295,7 +295,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 56497,
+      "stars": 56557,
       "pushedAt": "2026-10-22T16:57:46Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -311,8 +311,8 @@
       "name": "ECC",
       "tier": "A",
       "listable": true,
-      "publishSha": "e49479937753c8aca5a09aa76dbe2eea1b68f187",
-      "headSha": "e49479937753c8aca5a09aa76dbe2eea1b68f187",
+      "publishSha": "25278e7d7b6cf6e6a4e7a6c8e10f14ff22f0eb5b",
+      "headSha": "25278e7d7b6cf6e6a4e7a6c8e10f14ff22f0eb5b",
       "servingStale": false,
       "health": "ok",
       "description": "Harness-native ECC plugin for engineering teams - 71 agents, 311 skills, 97 legacy command shims, reusable hooks, rules, MCP conventions, and operator workflows for Claude Code plus adjacent agent harnesses",
@@ -2852,8 +2852,8 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 288756,
-      "pushedAt": "2026-10-25T19:41:33Z",
+      "stars": 288970,
+      "pushedAt": "2026-10-26T04:03:57Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
       "isFork": false,
