@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:53:50.197Z",
+  "generatedAt": "2026-10-28T22:34:24.027Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -295,7 +295,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 57015,
+      "stars": 57121,
       "pushedAt": "2026-10-27T21:16:06Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2852,14 +2852,14 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 291365,
+      "stars": 291711,
       "pushedAt": "2026-10-26T04:56:56Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.848
+      "score": 0.847
     },
     {
       "slug": "ai-plugins",
@@ -3570,8 +3570,8 @@
       "name": "alloydb-plugin",
       "tier": "A",
       "listable": true,
-      "publishSha": "f9b3280bdcfe8910451f00b2a40eb32685766cd1",
-      "headSha": "f9b3280bdcfe8910451f00b2a40eb32685766cd1",
+      "publishSha": "75b757f003bee2e5f8a24d2a6474b1d293be624e",
+      "headSha": "75b757f003bee2e5f8a24d2a6474b1d293be624e",
       "servingStale": false,
       "health": "ok",
       "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
@@ -3594,13 +3594,13 @@
         }
       ],
       "stars": 24,
-      "pushedAt": "2026-10-28T05:40:25Z",
+      "pushedAt": "2026-10-28T22:30:30Z",
       "createdAt": "2025-09-12T15:32:54Z",
       "license": "Apache-2.0",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.668
+      "score": 0.669
     },
     {
       "slug": "agentforce-adlc",
@@ -3736,8 +3736,8 @@
       "name": "aikido-claude-plugin",
       "tier": "A",
       "listable": true,
-      "publishSha": "f62031b7fe1134d0ef992e5d8c639e316b0c577a",
-      "headSha": "f62031b7fe1134d0ef992e5d8c639e316b0c577a",
+      "publishSha": "d49c4fa7c2ba95a3f913abd5becc1279a9af697c",
+      "headSha": "d49c4fa7c2ba95a3f913abd5becc1279a9af697c",
       "servingStale": false,
       "health": "ok",
       "description": "Aikido Security for Claude Code: scan code (SAST, secrets, IaC) and list all issues from your Aikido feed powered by the Aikido MCP server.",
@@ -3782,13 +3782,13 @@
         }
       ],
       "stars": 14,
-      "pushedAt": "2026-10-26T10:48:25Z",
+      "pushedAt": "2026-10-28T13:05:34Z",
       "createdAt": "2026-02-27T14:09:04Z",
       "license": null,
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.573
+      "score": 0.574
     }
   ]
 }

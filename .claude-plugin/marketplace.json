@@ -74,7 +74,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
-        "sha": "f9b3280bdcfe8910451f00b2a40eb32685766cd1"
+        "sha": "75b757f003bee2e5f8a24d2a6474b1d293be624e"
       }
     },
     {
@@ -116,7 +116,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/AikidoSec/aikido-claude-plugin.git",
-        "sha": "f62031b7fe1134d0ef992e5d8c639e316b0c577a"
+        "sha": "d49c4fa7c2ba95a3f913abd5becc1279a9af697c"
       }
     }
   ]

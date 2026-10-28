@@ -226,11 +226,11 @@
     "AikidoSec/aikido-claude-plugin": {
       "health": "ok",
       "consecutiveFailures": 0,
-      "lastGoodSha": "f62031b7fe1134d0ef992e5d8c639e316b0c577a",
-      "lastGoodAt": "2026-10-26T13:01:26.196Z",
-      "lastSeenPush": "2026-10-26T10:48:25Z",
+      "lastGoodSha": "d49c4fa7c2ba95a3f913abd5becc1279a9af697c",
+      "lastGoodAt": "2026-10-28T22:34:24.027Z",
+      "lastSeenPush": "2026-10-28T13:05:34Z",
       "firstIndexedAt": "2026-07-26T23:33:45.359Z",
-      "lastCheckedAt": "2026-10-26T13:01:26.196Z",
+      "lastCheckedAt": "2026-10-28T22:34:24.027Z",
       "goneAt": null,
       "componentHashes": [
         "426ab811ba5933d1801d26f3e57d06a2158374f6f80b711547dbf2ac3d5a94bb",
@@ -776,11 +776,11 @@
     "GoogleCloudPlatform/alloydb-plugin": {
       "health": "ok",
       "consecutiveFailures": 0,
-      "lastGoodSha": "f9b3280bdcfe8910451f00b2a40eb32685766cd1",
-      "lastGoodAt": "2026-10-28T05:41:38.947Z",
-      "lastSeenPush": "2026-10-28T05:40:25Z",
+      "lastGoodSha": "75b757f003bee2e5f8a24d2a6474b1d293be624e",
+      "lastGoodAt": "2026-10-28T22:34:24.027Z",
+      "lastSeenPush": "2026-10-28T22:30:30Z",
       "firstIndexedAt": "2026-07-26T23:33:45.359Z",
-      "lastCheckedAt": "2026-10-28T05:41:38.947Z",
+      "lastCheckedAt": "2026-10-28T22:34:24.027Z",
       "goneAt": null,
       "componentHashes": [
         "facd5518ce097e3ce8eee8511773eff3212ffcfab6d01dcbe43d718feebc53d4"
