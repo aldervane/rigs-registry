@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:34:24.027Z",
+  "generatedAt": "2026-10-29T05:47:06.521Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -295,7 +295,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 57121,
+      "stars": 57158,
       "pushedAt": "2026-10-27T21:16:06Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2852,7 +2852,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 291711,
+      "stars": 291937,
       "pushedAt": "2026-10-26T04:56:56Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3594,7 +3594,7 @@
         }
       ],
       "stars": 24,
-      "pushedAt": "2026-10-28T22:30:30Z",
+      "pushedAt": "2026-10-29T01:18:07Z",
       "createdAt": "2025-09-12T15:32:54Z",
       "license": "Apache-2.0",
       "isFork": false,
@@ -3680,7 +3680,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.65
+      "score": 0.649
     },
     {
       "slug": "alloydb-omni",
