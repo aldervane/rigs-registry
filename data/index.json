@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:59:42.925Z",
+  "generatedAt": "2026-10-29T22:44:21.759Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,8 +11,8 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "0cd9b3a0ef4c411a1d690419ce843f2a1da32cce",
-      "headSha": "0cd9b3a0ef4c411a1d690419ce843f2a1da32cce",
+      "publishSha": "820ad2c1c0ac4cc350158bd7912c753681a7d173",
+      "headSha": "820ad2c1c0ac4cc350158bd7912c753681a7d173",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
@@ -295,14 +295,14 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 57230,
-      "pushedAt": "2026-10-27T21:16:06Z",
+      "stars": 57322,
+      "pushedAt": "2026-10-29T17:22:37Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.878
+      "score": 0.879
     },
     {
       "slug": "everything-claude-code",
@@ -2852,14 +2852,14 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 292252,
-      "pushedAt": "2026-10-26T04:56:56Z",
+      "stars": 292660,
+      "pushedAt": "2026-10-29T22:22:48Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.847
+      "score": 0.849
     },
     {
       "slug": "ai-plugins",
@@ -3561,7 +3561,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.678
+      "score": 0.677
     },
     {
       "slug": "alloydb",
@@ -3600,7 +3600,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.669
+      "score": 0.668
     },
     {
       "slug": "agentforce-adlc",
