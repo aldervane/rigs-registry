@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:18:44.892Z",
+  "generatedAt": "2026-10-31T05:39:40.300Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,20 +11,20 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "820ad2c1c0ac4cc350158bd7912c753681a7d173",
-      "headSha": "820ad2c1c0ac4cc350158bd7912c753681a7d173",
+      "publishSha": "88c79f6528a9347420e57ceb1fff9a60de651768",
+      "headSha": "88c79f6528a9347420e57ceb1fff9a60de651768",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
       "counts": {
-        "skill": 52,
+        "skill": 53,
         "agent": 0,
         "command": 0,
         "hook": 0,
         "mcp": 0
       },
-      "componentTotal": 52,
-      "rawFileCount": 52,
+      "componentTotal": 53,
+      "rawFileCount": 53,
       "droppedMirror": 0,
       "warnings": [
         "SEC-02 tests/clis/snov-prospect-search.test.cjs at line 17: possible bearer (27 chars) [test fixture]",
@@ -92,7 +92,7 @@
         {
           "kind": "skill",
           "name": "competitor-profiling",
-          "description": "When the user wants to research, profile, or analyze competitors from their URLs. Also use when the user mentions 'competitor profile,' 'competitor research,' 'competitor analysis,' 'profile this competitor,' 'analyze competitor,' 'competitive intelligence,' 'competitor deep dive,' 'who are my competitors,' 'competitor landscape,' 'competitor dossier,' 'competitive audit,' or 'research these competitors.' Input is a list of competitor URLs. Output is structured competitor profile markdown files. For creating comparison/alternative pages from profiles, see competitors. For sales-specific battle cards, see sales-enablement. For researching accounts you're selling to, see prospecting."
+          "description": "When the user wants to research, profile, or analyze competitors from their URLs. Also use when the user mentions 'competitor profile,' 'competitor research,' 'competitor analysis,' 'profile this competitor,' 'analyze competitor,' 'competitive intelligence,' 'competitor deep dive,' 'who are my competitors,' 'competitor landscape,' 'competitor dossier,' 'competitive audit,' or 'research these competitors.' Input is a list of competitor URLs. Output is structured competitor profile markdown files. For creating comparison/alternative pages from profiles, see competitors. For sales-specific battle cards, see sales-enablement. For researching accounts you're selling to, see prospecting. For how a competitor grew over time and what to copy, see reverse-engineer-marketing."
         },
         {
           "kind": "skill",
@@ -251,6 +251,11 @@
         },
         {
           "kind": "skill",
+          "name": "reverse-engineer-marketing",
+          "description": "When the user wants to reverse engineer how another company grew and copy what worked. Also use when the user mentions 'reverse engineer,' 'how did X grow,' 'how does X get customers,' 'growth teardown,' 'marketing teardown,' 'GTM teardown,' 'growth blueprint,' 'what is X doing for marketing,' 'what made X take off,' 'copy X's playbook,' 'X's distribution strategy,' 'what content works for X,' 'funnel hack,' 'map their funnel,' or 'watch what X is doing.' Builds a dated log of a company's moves against its traffic curve from public data, sign-ups and demos, team interviews, and hidden signals (DNS, certificate logs, archives, sponsorships), compares it with the user's own data, and turns what lined up with growth into plays routed to the skill that runs each one. For a snapshot profile of a competitor's positioning, pricing, and features, see competitor-profiling. For comparison pages, see competitors. For why a single post went viral, see social."
+        },
+        {
+          "kind": "skill",
           "name": "revops",
           "description": "When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes. Also use when the user mentions 'RevOps,' 'revenue operations,' 'lead scoring,' 'outbound pipeline stages,' 'lead routing,' 'MQL,' 'SQL,' 'pipeline stages,' 'deal desk,' 'CRM automation,' 'marketing-to-sales handoff,' 'data hygiene,' 'leads aren't getting to sales,' 'pipeline management,' 'lead qualification,' or 'when should marketing hand off to sales.' Use this for anything involving the systems and processes that connect marketing to revenue. For cold outreach emails, see cold-email. For email drip campaigns, see emails. For pricing decisions, see pricing."
         },
@@ -295,8 +300,8 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 57508,
-      "pushedAt": "2026-10-30T21:45:48Z",
+      "stars": 57549,
+      "pushedAt": "2026-10-31T00:53:07Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
@@ -2872,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 293358,
+      "stars": 293514,
       "pushedAt": "2026-10-30T03:06:42Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
