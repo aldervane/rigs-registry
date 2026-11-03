@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:50:34.159Z",
+  "generatedAt": "2026-11-03T00:57:16.186Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,7 +300,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 58001,
+      "stars": 58106,
       "pushedAt": "2026-10-31T00:53:07Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 295313,
+      "stars": 295673,
       "pushedAt": "2026-11-02T04:56:08Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3525,6 +3525,50 @@
       "score": 0.732
     },
     {
+      "slug": "alloydb",
+      "repo": "GoogleCloudPlatform/alloydb-plugin",
+      "owner": "GoogleCloudPlatform",
+      "name": "alloydb-plugin",
+      "tier": "A",
+      "listable": true,
+      "publishSha": "67f41ca67cb9a636abe811ca516ef07fc927dde3",
+      "headSha": "67f41ca67cb9a636abe811ca516ef07fc927dde3",
+      "servingStale": false,
+      "health": "ok",
+      "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
+      "counts": {
+        "skill": 1,
+        "agent": 0,
+        "command": 0,
+        "hook": 0,
+        "mcp": 1
+      },
+      "componentTotal": 2,
+      "rawFileCount": 2,
+      "droppedMirror": 0,
+      "warnings": [],
+      "rejectReasons": [],
+      "components": [
+        {
+          "kind": "mcp",
+          "name": "mcp"
+        },
+        {
+          "kind": "skill",
+          "name": "alloydb-agent-mode-quickstart",
+          "description": "Provisions AlloyDB agent pools and deploys AI data agents or multi-agent swarms on Vertex AI Agent Engine and Gemini Enterprise. Three capabilities: (1) provision an AlloyDB agent pool over Private Service Connect (PSC) using gcloud (and AlloyDB MCP tools when configured); (2) deploy a single agent querying the pool over MCP (get_schema, execute_sql_read_only) with optional per-session writable PostgreSQL scratch databases (Cloud Run Agent Workspace); (3) deploy an agent swarm with a coordinator that fans questions across parallel worker sessions. Use when the user wants to set up an AlloyDB agent pool, or deploy, update, validate, register in Gemini Enterprise, or tear down a data agent or agent swarm on an AlloyDB database (the agent generates and manages ./<name>.alloydb-agent.yaml automatically). Don't use for standard non-agent AlloyDB administration or standalone SQL query tuning."
+        }
+      ],
+      "stars": 24,
+      "pushedAt": "2026-11-03T00:19:03Z",
+      "createdAt": "2025-09-12T15:32:54Z",
+      "license": "Apache-2.0",
+      "isFork": false,
+      "isDerivative": false,
+      "stale": false,
+      "score": 0.683
+    },
+    {
       "slug": "apollo-mcp-plugin",
       "repo": "apolloio/apollo-mcp-plugin",
       "owner": "apolloio",
@@ -3587,45 +3631,6 @@
       "isDerivative": false,
       "stale": false,
       "score": 0.676
-    },
-    {
-      "slug": "alloydb",
-      "repo": "GoogleCloudPlatform/alloydb-plugin",
-      "owner": "GoogleCloudPlatform",
-      "name": "alloydb-plugin",
-      "tier": "A",
-      "listable": true,
-      "publishSha": "75b757f003bee2e5f8a24d2a6474b1d293be624e",
-      "headSha": "75b757f003bee2e5f8a24d2a6474b1d293be624e",
-      "servingStale": false,
-      "health": "ok",
-      "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
-      "counts": {
-        "skill": 0,
-        "agent": 0,
-        "command": 0,
-        "hook": 0,
-        "mcp": 1
-      },
-      "componentTotal": 1,
-      "rawFileCount": 1,
-      "droppedMirror": 0,
-      "warnings": [],
-      "rejectReasons": [],
-      "components": [
-        {
-          "kind": "mcp",
-          "name": "mcp"
-        }
-      ],
-      "stars": 24,
-      "pushedAt": "2026-10-29T01:18:07Z",
-      "createdAt": "2025-09-12T15:32:54Z",
-      "license": "Apache-2.0",
-      "isFork": false,
-      "isDerivative": false,
-      "stale": false,
-      "score": 0.667
     },
     {
       "slug": "agentforce-adlc",
@@ -3705,7 +3710,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.648
+      "score": 0.647
     },
     {
       "slug": "alloydb-omni",

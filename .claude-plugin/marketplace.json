@@ -50,6 +50,20 @@
       }
     },
     {
+      "name": "alloydb",
+      "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
+      "author": {
+        "name": "GoogleCloudPlatform",
+        "url": "https://github.com/GoogleCloudPlatform"
+      },
+      "homepage": "https://github.com/GoogleCloudPlatform/alloydb-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
+        "sha": "67f41ca67cb9a636abe811ca516ef07fc927dde3"
+      }
+    },
+    {
       "name": "apollo-mcp-plugin",
       "description": "Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration for Claude Code and Cowork.",
       "author": {
@@ -61,20 +75,6 @@
         "source": "url",
         "url": "https://github.com/apolloio/apollo-mcp-plugin.git",
         "sha": "bd0513c961f02105492fcff0d7d29c9cccf1ed23"
-      }
-    },
-    {
-      "name": "alloydb",
-      "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
-      "author": {
-        "name": "GoogleCloudPlatform",
-        "url": "https://github.com/GoogleCloudPlatform"
-      },
-      "homepage": "https://github.com/GoogleCloudPlatform/alloydb-plugin",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
-        "sha": "75b757f003bee2e5f8a24d2a6474b1d293be624e"
       }
     },
     {

@@ -781,14 +781,15 @@
     "GoogleCloudPlatform/alloydb-plugin": {
       "health": "ok",
       "consecutiveFailures": 0,
-      "lastGoodSha": "75b757f003bee2e5f8a24d2a6474b1d293be624e",
-      "lastGoodAt": "2026-10-29T05:47:06.521Z",
-      "lastSeenPush": "2026-10-29T01:18:07Z",
+      "lastGoodSha": "67f41ca67cb9a636abe811ca516ef07fc927dde3",
+      "lastGoodAt": "2026-11-03T00:57:16.186Z",
+      "lastSeenPush": "2026-11-03T00:19:03Z",
       "firstIndexedAt": "2026-07-26T23:33:45.359Z",
-      "lastCheckedAt": "2026-10-29T05:47:06.521Z",
+      "lastCheckedAt": "2026-11-03T00:57:16.186Z",
       "goneAt": null,
       "componentHashes": [
-        "facd5518ce097e3ce8eee8511773eff3212ffcfab6d01dcbe43d718feebc53d4"
+        "facd5518ce097e3ce8eee8511773eff3212ffcfab6d01dcbe43d718feebc53d4",
+        "23f08e5c8b9c803b8f25949cdf4fee04dce40fe7df31d4f9003b1881d2ff404c"
       ]
     },
     "GoogleCloudPlatform/alloydb-omni-plugin": {
