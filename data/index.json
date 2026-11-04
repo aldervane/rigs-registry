@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:22:33.054Z",
+  "generatedAt": "2026-11-04T06:21:06.841Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,7 +300,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 58307,
+      "stars": 58370,
       "pushedAt": "2026-10-31T00:53:07Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 296535,
+      "stars": 296694,
       "pushedAt": "2026-11-02T04:56:08Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3595,8 +3595,8 @@
       "name": "alloydb-plugin",
       "tier": "A",
       "listable": true,
-      "publishSha": "4ac1ca824c0f70248dadc2aa93f375e3c3dc7944",
-      "headSha": "4ac1ca824c0f70248dadc2aa93f375e3c3dc7944",
+      "publishSha": "1c877774e31846ffc1b215b751d82f4ea85dfdf6",
+      "headSha": "1c877774e31846ffc1b215b751d82f4ea85dfdf6",
       "servingStale": false,
       "health": "ok",
       "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
@@ -3624,7 +3624,7 @@
         }
       ],
       "stars": 24,
-      "pushedAt": "2026-11-03T20:39:12Z",
+      "pushedAt": "2026-11-04T01:02:12Z",
       "createdAt": "2025-09-12T15:32:54Z",
       "license": "Apache-2.0",
       "isFork": false,
