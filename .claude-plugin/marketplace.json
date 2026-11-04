@@ -46,7 +46,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/endorlabs/ai-plugins.git",
-        "sha": "a8903c62a0afc1d82a48a100cbd60013ef80f607"
+        "sha": "90852073e1b4bb7bbfb26709b9f4e95f04fab147"
       }
     },
     {
@@ -74,7 +74,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
-        "sha": "1c877774e31846ffc1b215b751d82f4ea85dfdf6"
+        "sha": "7d73976ac180e34556343824ede2b91a4b484554"
       }
     },
     {

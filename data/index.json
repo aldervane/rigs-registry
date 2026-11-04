@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T06:21:06.841Z",
+  "generatedAt": "2026-11-04T19:44:44.551Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,14 +300,14 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 58370,
-      "pushedAt": "2026-10-31T00:53:07Z",
+      "stars": 58500,
+      "pushedAt": "2026-11-04T19:01:33Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.878
+      "score": 0.88
     },
     {
       "slug": "everything-claude-code",
@@ -2877,14 +2877,14 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 296694,
+      "stars": 297131,
       "pushedAt": "2026-11-02T04:56:08Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.849
+      "score": 0.848
     },
     {
       "slug": "ai-plugins",
@@ -2893,8 +2893,8 @@
       "name": "ai-plugins",
       "tier": "A",
       "listable": true,
-      "publishSha": "a8903c62a0afc1d82a48a100cbd60013ef80f607",
-      "headSha": "a8903c62a0afc1d82a48a100cbd60013ef80f607",
+      "publishSha": "90852073e1b4bb7bbfb26709b9f4e95f04fab147",
+      "headSha": "90852073e1b4bb7bbfb26709b9f4e95f04fab147",
       "servingStale": false,
       "health": "ok",
       "description": "Endor Labs workflow agents and setup for Claude Code.",
@@ -3516,7 +3516,7 @@
         }
       ],
       "stars": 10,
-      "pushedAt": "2026-11-03T19:33:59Z",
+      "pushedAt": "2026-11-04T18:06:43Z",
       "createdAt": "2026-03-02T17:25:07Z",
       "license": "MIT",
       "isFork": false,
@@ -3586,7 +3586,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.702
+      "score": 0.701
     },
     {
       "slug": "alloydb",
@@ -3595,8 +3595,8 @@
       "name": "alloydb-plugin",
       "tier": "A",
       "listable": true,
-      "publishSha": "1c877774e31846ffc1b215b751d82f4ea85dfdf6",
-      "headSha": "1c877774e31846ffc1b215b751d82f4ea85dfdf6",
+      "publishSha": "7d73976ac180e34556343824ede2b91a4b484554",
+      "headSha": "7d73976ac180e34556343824ede2b91a4b484554",
       "servingStale": false,
       "health": "ok",
       "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
@@ -3624,7 +3624,7 @@
         }
       ],
       "stars": 24,
-      "pushedAt": "2026-11-04T01:02:12Z",
+      "pushedAt": "2026-11-04T19:08:02Z",
       "createdAt": "2025-09-12T15:32:54Z",
       "license": "Apache-2.0",
       "isFork": false,
