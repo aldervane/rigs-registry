@@ -92,6 +92,20 @@
       }
     },
     {
+      "name": "aikido-claude-plugin",
+      "description": "Aikido Security for Claude Code: scan code (SAST, secrets, IaC) and list all issues from your Aikido feed powered by the Aikido MCP server.",
+      "author": {
+        "name": "AikidoSec",
+        "url": "https://github.com/AikidoSec"
+      },
+      "homepage": "https://github.com/AikidoSec/aikido-claude-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/AikidoSec/aikido-claude-plugin.git",
+        "sha": "75e45f337568bf3e0f5d99bc1b41d8844492df19"
+      }
+    },
+    {
       "name": "alloydb-omni",
       "description": "Create, connect, and interact with an AlloyDB Omni database and data.",
       "author": {
@@ -103,20 +117,6 @@
         "source": "url",
         "url": "https://github.com/GoogleCloudPlatform/alloydb-omni-plugin.git",
         "sha": "37101e3f9aaf0bd4d0acaeee540a0da2fd773d00"
-      }
-    },
-    {
-      "name": "aikido-claude-plugin",
-      "description": "Aikido Security for Claude Code: scan code (SAST, secrets, IaC) and list all issues from your Aikido feed powered by the Aikido MCP server.",
-      "author": {
-        "name": "AikidoSec",
-        "url": "https://github.com/AikidoSec"
-      },
-      "homepage": "https://github.com/AikidoSec/aikido-claude-plugin",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/AikidoSec/aikido-claude-plugin.git",
-        "sha": "d49c4fa7c2ba95a3f913abd5becc1279a9af697c"
       }
     }
   ]

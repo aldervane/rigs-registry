@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:45:22.140Z",
+  "generatedAt": "2026-11-05T19:56:23.135Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,7 +300,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 58572,
+      "stars": 58698,
       "pushedAt": "2026-11-04T19:01:33Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 297403,
+      "stars": 297765,
       "pushedAt": "2026-11-02T04:56:08Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3579,14 +3579,14 @@
           "description": "Find leads matching criteria and bulk-add them to an Apollo outreach sequence. Handles enrichment, contact creation, deduplication, and enrollment in one flow."
         }
       ],
-      "stars": 33,
+      "stars": 35,
       "pushedAt": "2026-11-03T22:37:27Z",
       "createdAt": "2026-02-19T10:47:36Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.701
+      "score": 0.704
     },
     {
       "slug": "alloydb",
@@ -3630,7 +3630,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.683
+      "score": 0.682
     },
     {
       "slug": "agentforce-adlc",
@@ -3710,7 +3710,68 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.647
+      "score": 0.646
+    },
+    {
+      "slug": "aikido-claude-plugin",
+      "repo": "AikidoSec/aikido-claude-plugin",
+      "owner": "AikidoSec",
+      "name": "aikido-claude-plugin",
+      "tier": "A",
+      "listable": true,
+      "publishSha": "75e45f337568bf3e0f5d99bc1b41d8844492df19",
+      "headSha": "75e45f337568bf3e0f5d99bc1b41d8844492df19",
+      "servingStale": false,
+      "health": "ok",
+      "description": "Aikido Security for Claude Code: scan code (SAST, secrets, IaC) and list all issues from your Aikido feed powered by the Aikido MCP server.",
+      "counts": {
+        "skill": 4,
+        "agent": 0,
+        "command": 0,
+        "hook": 0,
+        "mcp": 1
+      },
+      "componentTotal": 5,
+      "rawFileCount": 5,
+      "droppedMirror": 0,
+      "warnings": [
+        "LIC-01 no LICENSE file"
+      ],
+      "rejectReasons": [],
+      "components": [
+        {
+          "kind": "mcp",
+          "name": "mcp"
+        },
+        {
+          "kind": "skill",
+          "name": "aikido-issues",
+          "description": "List, count, summarize, or triage security issues from the Aikido security feed. Use when the user asks about Aikido findings, vulnerabilities, leaked secrets, SAST/IaC/SCA results, cloud or container security issues, or EOL/license/malware alerts surfaced by Aikido."
+        },
+        {
+          "kind": "skill",
+          "name": "pr-comments",
+          "description": "Fetches comments already posted on a GitHub/GitLab/Azure DevOps pull or merge request (e.g. CI bot results, review feedback, Aikido's own scan-result comment). Use when the user asks what CI/CD said, wants to read/check/summarize PR or MR comments, mentions \"pipeline comments\", or asks about \"Aikido comments\"/\"Aikido feedback\"/what Aikido said or found on a PR — this reads via the native SCM CLI (gh/glab/az), not the Aikido MCP server."
+        },
+        {
+          "kind": "skill",
+          "name": "scan",
+          "description": "Runs an Aikido security scan on generated, added, or modified code files to detect SAST vulnerabilities and exposed secrets. Use when the user wants to scan code for security issues, after writing or modifying code, or when they mention Aikido, security scan, or SAST. Always run an Aikido scan after generating code to verify the generated code is free of security issues."
+        },
+        {
+          "kind": "skill",
+          "name": "setup",
+          "description": "Configures the Aikido plugin by signing the user in through the MCP login tool and verifying the MCP server. Use when the user wants to set up or verify the Aikido plugin, after installing it, when aikido mcp tool call fails or is unavailable, or when the user wants to switch Aikido accounts or re-authenticate."
+        }
+      ],
+      "stars": 15,
+      "pushedAt": "2026-11-05T16:03:26Z",
+      "createdAt": "2026-02-27T14:09:04Z",
+      "license": null,
+      "isFork": false,
+      "isDerivative": false,
+      "stale": false,
+      "score": 0.578
     },
     {
       "slug": "alloydb-omni",
@@ -3757,68 +3818,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.576
-    },
-    {
-      "slug": "aikido-claude-plugin",
-      "repo": "AikidoSec/aikido-claude-plugin",
-      "owner": "AikidoSec",
-      "name": "aikido-claude-plugin",
-      "tier": "A",
-      "listable": true,
-      "publishSha": "d49c4fa7c2ba95a3f913abd5becc1279a9af697c",
-      "headSha": "d49c4fa7c2ba95a3f913abd5becc1279a9af697c",
-      "servingStale": false,
-      "health": "ok",
-      "description": "Aikido Security for Claude Code: scan code (SAST, secrets, IaC) and list all issues from your Aikido feed powered by the Aikido MCP server.",
-      "counts": {
-        "skill": 4,
-        "agent": 0,
-        "command": 0,
-        "hook": 0,
-        "mcp": 1
-      },
-      "componentTotal": 5,
-      "rawFileCount": 5,
-      "droppedMirror": 0,
-      "warnings": [
-        "LIC-01 no LICENSE file"
-      ],
-      "rejectReasons": [],
-      "components": [
-        {
-          "kind": "mcp",
-          "name": "mcp"
-        },
-        {
-          "kind": "skill",
-          "name": "aikido-issues",
-          "description": "List, count, summarize, or triage security issues from the Aikido security feed. Use when the user asks about Aikido findings, vulnerabilities, leaked secrets, SAST/IaC/SCA results, cloud or container security issues, or EOL/license/malware alerts surfaced by Aikido."
-        },
-        {
-          "kind": "skill",
-          "name": "pr-comments",
-          "description": "Fetches comments already posted on a GitHub/GitLab/Azure DevOps pull or merge request (e.g. CI bot results, review feedback, Aikido's own scan-result comment). Use when the user asks what CI/CD said, wants to read/check/summarize PR or MR comments, mentions \"pipeline comments\", or asks about \"Aikido comments\"/\"Aikido feedback\"/what Aikido said or found on a PR — this reads via the native SCM CLI (gh/glab/az), not the Aikido MCP server."
-        },
-        {
-          "kind": "skill",
-          "name": "scan",
-          "description": "Runs an Aikido security scan on generated, added, or modified code files to detect SAST vulnerabilities and exposed secrets. Use when the user wants to scan code for security issues, after writing or modifying code, or when they mention Aikido, security scan, or SAST. Always run an Aikido scan after generating code to verify the generated code is free of security issues."
-        },
-        {
-          "kind": "skill",
-          "name": "setup",
-          "description": "Configures the Aikido plugin by signing the user in through the MCP login tool and verifying the MCP server. Use when the user wants to set up or verify the Aikido plugin, after installing it, when aikido mcp tool call fails or is unavailable, or when the user wants to switch Aikido accounts or re-authenticate."
-        }
-      ],
-      "stars": 15,
-      "pushedAt": "2026-10-28T13:05:34Z",
-      "createdAt": "2026-02-27T14:09:04Z",
-      "license": null,
-      "isFork": false,
-      "isDerivative": false,
-      "stale": false,
-      "score": 0.574
+      "score": 0.575
     }
   ]
 }
