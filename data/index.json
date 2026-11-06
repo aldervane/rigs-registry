@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:43:46.705Z",
+  "generatedAt": "2026-11-06T19:23:45.851Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,8 +11,8 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "88c79f6528a9347420e57ceb1fff9a60de651768",
-      "headSha": "88c79f6528a9347420e57ceb1fff9a60de651768",
+      "publishSha": "96798cf38736ecdba015a1d2b0521b0c8f8f41dd",
+      "headSha": "96798cf38736ecdba015a1d2b0521b0c8f8f41dd",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
@@ -252,7 +252,7 @@
         {
           "kind": "skill",
           "name": "reverse-engineer-marketing",
-          "description": "When the user wants to reverse engineer how another company grew and copy what worked. Also use when the user mentions 'reverse engineer,' 'how did X grow,' 'how does X get customers,' 'growth teardown,' 'marketing teardown,' 'GTM teardown,' 'growth blueprint,' 'what is X doing for marketing,' 'what made X take off,' 'copy X's playbook,' 'X's distribution strategy,' 'what content works for X,' 'funnel hack,' 'map their funnel,' or 'watch what X is doing.' Builds a dated log of a company's moves against its traffic curve from public data, sign-ups and demos, team interviews, and hidden signals (DNS, certificate logs, archives, sponsorships), compares it with the user's own data, and turns what lined up with growth into plays routed to the skill that runs each one. For a snapshot profile of a competitor's positioning, pricing, and features, see competitor-profiling. For comparison pages, see competitors. For why a single post went viral, see social."
+          "description": "When the user wants to reverse engineer how another company grew and copy what worked. Also use when the user mentions 'reverse engineer,' 'how did X grow,' 'how does X get customers,' 'growth teardown,' 'marketing teardown,' 'GTM teardown,' 'what is X doing for marketing,' 'what made X take off,' 'copy X's playbook,' 'funnel hack,' 'map their funnel,' 'what is everyone in my category doing,' 'where are competitors weak,' 'what is X hiring for,' or 'watch what X is doing.' Builds a dated log of a company's moves against its traffic curve from public data, sign-ups and demos, team interviews, job posts, reviews, and hidden signals (DNS, certificate logs, archives), compares it with the user's own data and with other competitors, finds where they're weak, and turns it all into plays routed to the skill that runs each one. For a snapshot profile of a competitor's positioning, pricing, and features, see competitor-profiling. For comparison pages, see competitors. For why a single post went viral, see social."
         },
         {
           "kind": "skill",
@@ -300,14 +300,14 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 58776,
-      "pushedAt": "2026-11-04T19:01:33Z",
+      "stars": 58880,
+      "pushedAt": "2026-11-06T17:53:06Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.879
+      "score": 0.88
     },
     {
       "slug": "everything-claude-code",
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 298016,
+      "stars": 298450,
       "pushedAt": "2026-11-06T05:29:44Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3516,13 +3516,13 @@
         }
       ],
       "stars": 10,
-      "pushedAt": "2026-11-04T20:00:01Z",
+      "pushedAt": "2026-11-06T17:46:18Z",
       "createdAt": "2026-03-02T17:25:07Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.737
+      "score": 0.738
     },
     {
       "slug": "apollo-mcp-plugin",
@@ -3579,14 +3579,14 @@
           "description": "Find leads matching criteria and bulk-add them to an Apollo outreach sequence. Handles enrichment, contact creation, deduplication, and enrollment in one flow."
         }
       ],
-      "stars": 35,
+      "stars": 36,
       "pushedAt": "2026-11-03T22:37:27Z",
       "createdAt": "2026-02-19T10:47:36Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.703
+      "score": 0.704
     },
     {
       "slug": "alloydb",
