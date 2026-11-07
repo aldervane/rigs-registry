@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:59:30.439Z",
+  "generatedAt": "2026-11-07T21:49:39.477Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,7 +300,7 @@
           "description": "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'record a product demo,' 'feature demo video,' 'in-app demo,' 'video pipeline,' 'copy this edit,' 'match this video style,' 'reverse-engineer this video,' 'edit like this reference,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
         }
       ],
-      "stars": 59001,
+      "stars": 59050,
       "pushedAt": "2026-11-06T17:53:06Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 298882,
+      "stars": 299122,
       "pushedAt": "2026-11-06T21:21:50Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3623,14 +3623,14 @@
           "description": "Provisions AlloyDB agent pools and deploys AI data agents or multi-agent swarms on Vertex AI Agent Engine and Gemini Enterprise. Three capabilities: (1) provision an AlloyDB agent pool over Private Service Connect (PSC) using gcloud (and AlloyDB MCP tools when configured); (2) deploy a single agent querying the pool over MCP (get_schema, execute_sql_read_only) with optional per-session writable PostgreSQL scratch databases (Cloud Run Agent Workspace); (3) deploy an agent swarm with a coordinator that fans questions across parallel worker sessions. Use when the user wants to set up an AlloyDB agent pool, or deploy, update, validate, register in Gemini Enterprise, or tear down a data agent or agent swarm on an AlloyDB database (the agent generates and manages ./<name>.alloydb-agent.yaml automatically). Don't use for standard non-agent AlloyDB administration or standalone SQL query tuning."
         }
       ],
-      "stars": 24,
+      "stars": 25,
       "pushedAt": "2026-11-04T19:08:02Z",
       "createdAt": "2025-09-12T15:32:54Z",
       "license": "Apache-2.0",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.682
+      "score": 0.683
     },
     {
       "slug": "agentforce-adlc",
@@ -3710,7 +3710,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.646
+      "score": 0.645
     },
     {
       "slug": "aikido-claude-plugin",
