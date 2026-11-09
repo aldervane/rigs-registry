@@ -18,7 +18,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/coreyhaines31/marketingskills.git",
-        "sha": "96798cf38736ecdba015a1d2b0521b0c8f8f41dd"
+        "sha": "7c187944fa63d149879459ba53ef4fd3c0364c50"
       }
     },
     {
@@ -46,7 +46,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/endorlabs/ai-plugins.git",
-        "sha": "90852073e1b4bb7bbfb26709b9f4e95f04fab147"
+        "sha": "62e0fd4676820e9b823a879584305c4c5386ce49"
       }
     },
     {
@@ -74,7 +74,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
-        "sha": "7d73976ac180e34556343824ede2b91a4b484554"
+        "sha": "89aa04176a1a2f90dfc73acd8180ddf2df315950"
       }
     },
     {
@@ -92,6 +92,20 @@
       }
     },
     {
+      "name": "alloydb-omni",
+      "description": "Create, connect, and interact with an AlloyDB Omni database and data.",
+      "author": {
+        "name": "GoogleCloudPlatform",
+        "url": "https://github.com/GoogleCloudPlatform"
+      },
+      "homepage": "https://github.com/GoogleCloudPlatform/alloydb-omni-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GoogleCloudPlatform/alloydb-omni-plugin.git",
+        "sha": "d74da86e60ea70559605a07134ea1f8134134f13"
+      }
+    },
+    {
       "name": "aikido-claude-plugin",
       "description": "Aikido Security for Claude Code: scan code (SAST, secrets, IaC) and list all issues from your Aikido feed powered by the Aikido MCP server.",
       "author": {
@@ -103,20 +117,6 @@
         "source": "url",
         "url": "https://github.com/AikidoSec/aikido-claude-plugin.git",
         "sha": "75e45f337568bf3e0f5d99bc1b41d8844492df19"
-      }
-    },
-    {
-      "name": "alloydb-omni",
-      "description": "Create, connect, and interact with an AlloyDB Omni database and data.",
-      "author": {
-        "name": "GoogleCloudPlatform",
-        "url": "https://github.com/GoogleCloudPlatform"
-      },
-      "homepage": "https://github.com/GoogleCloudPlatform/alloydb-omni-plugin",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/GoogleCloudPlatform/alloydb-omni-plugin.git",
-        "sha": "37101e3f9aaf0bd4d0acaeee540a0da2fd773d00"
       }
     }
   ]
