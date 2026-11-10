@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:20:31.942Z",
+  "generatedAt": "2026-11-10T07:16:49.491Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,8 +11,8 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "7c187944fa63d149879459ba53ef4fd3c0364c50",
-      "headSha": "7c187944fa63d149879459ba53ef4fd3c0364c50",
+      "publishSha": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
+      "headSha": "9d6d7ce8d18eb155dc2f9762435f097e60cdad7c",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
@@ -300,8 +300,8 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 59407,
-      "pushedAt": "2026-11-09T21:54:36Z",
+      "stars": 59473,
+      "pushedAt": "2026-11-10T06:12:20Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 300200,
+      "stars": 300362,
       "pushedAt": "2026-11-09T04:56:24Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3522,7 +3522,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.739
+      "score": 0.738
     },
     {
       "slug": "apollo-mcp-plugin",
@@ -3624,7 +3624,7 @@
         }
       ],
       "stars": 25,
-      "pushedAt": "2026-11-09T22:10:25Z",
+      "pushedAt": "2026-11-09T22:31:51Z",
       "createdAt": "2025-09-12T15:32:54Z",
       "license": "Apache-2.0",
       "isFork": false,
@@ -3710,7 +3710,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.645
+      "score": 0.644
     },
     {
       "slug": "alloydb-omni",
@@ -3757,7 +3757,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.6
+      "score": 0.599
     },
     {
       "slug": "aikido-claude-plugin",
