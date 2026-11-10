@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:16:49.491Z",
+  "generatedAt": "2026-11-10T19:43:01.518Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,7 +300,7 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 59473,
+      "stars": 59569,
       "pushedAt": "2026-11-10T06:12:20Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 300362,
+      "stars": 300701,
       "pushedAt": "2026-11-09T04:56:24Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -2893,8 +2893,8 @@
       "name": "ai-plugins",
       "tier": "A",
       "listable": true,
-      "publishSha": "62e0fd4676820e9b823a879584305c4c5386ce49",
-      "headSha": "62e0fd4676820e9b823a879584305c4c5386ce49",
+      "publishSha": "b6580695f66f0d6ed21a47a37ec369a93a1a0d9a",
+      "headSha": "b6580695f66f0d6ed21a47a37ec369a93a1a0d9a",
       "servingStale": false,
       "health": "ok",
       "description": "Endor Labs workflow agents and setup for Claude Code.",
@@ -3516,13 +3516,13 @@
         }
       ],
       "stars": 10,
-      "pushedAt": "2026-11-09T20:34:08Z",
+      "pushedAt": "2026-11-10T16:25:29Z",
       "createdAt": "2026-03-02T17:25:07Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.738
+      "score": 0.739
     },
     {
       "slug": "apollo-mcp-plugin",
@@ -3579,14 +3579,14 @@
           "description": "Find leads matching criteria and bulk-add them to an Apollo outreach sequence. Handles enrichment, contact creation, deduplication, and enrollment in one flow."
         }
       ],
-      "stars": 38,
+      "stars": 39,
       "pushedAt": "2026-11-03T22:37:27Z",
       "createdAt": "2026-02-19T10:47:36Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.705
+      "score": 0.706
     },
     {
       "slug": "alloydb",
