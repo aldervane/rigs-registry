@@ -18,7 +18,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/coreyhaines31/marketingskills.git",
-        "sha": "3e729622e3de0c82abdb906190d91f9018045872"
+        "sha": "1f837447b20bb6f0e72d87b80ece1c221c362c7d"
       }
     },
     {
@@ -74,7 +74,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
-        "sha": "89aa04176a1a2f90dfc73acd8180ddf2df315950"
+        "sha": "42db954dda09c4d25a236f7ca88648ddb77023af"
       }
     },
     {

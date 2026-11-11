@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:18:09.010Z",
+  "generatedAt": "2026-11-11T19:34:45.479Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,8 +11,8 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "3e729622e3de0c82abdb906190d91f9018045872",
-      "headSha": "3e729622e3de0c82abdb906190d91f9018045872",
+      "publishSha": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "headSha": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
@@ -300,8 +300,8 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 59618,
-      "pushedAt": "2026-11-11T02:26:00Z",
+      "stars": 59745,
+      "pushedAt": "2026-11-11T17:49:23Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
@@ -2877,14 +2877,14 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 300915,
+      "stars": 301254,
       "pushedAt": "2026-11-09T04:56:24Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.85
+      "score": 0.849
     },
     {
       "slug": "ai-plugins",
@@ -3522,7 +3522,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.739
+      "score": 0.738
     },
     {
       "slug": "apollo-mcp-plugin",
@@ -3595,8 +3595,8 @@
       "name": "alloydb-plugin",
       "tier": "A",
       "listable": true,
-      "publishSha": "89aa04176a1a2f90dfc73acd8180ddf2df315950",
-      "headSha": "89aa04176a1a2f90dfc73acd8180ddf2df315950",
+      "publishSha": "42db954dda09c4d25a236f7ca88648ddb77023af",
+      "headSha": "42db954dda09c4d25a236f7ca88648ddb77023af",
       "servingStale": false,
       "health": "ok",
       "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
@@ -3624,7 +3624,7 @@
         }
       ],
       "stars": 25,
-      "pushedAt": "2026-11-09T22:31:51Z",
+      "pushedAt": "2026-11-11T12:15:17Z",
       "createdAt": "2025-09-12T15:32:54Z",
       "license": "Apache-2.0",
       "isFork": false,
