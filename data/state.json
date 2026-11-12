@@ -781,11 +781,11 @@
     "GoogleCloudPlatform/alloydb-plugin": {
       "health": "ok",
       "consecutiveFailures": 0,
-      "lastGoodSha": "42db954dda09c4d25a236f7ca88648ddb77023af",
-      "lastGoodAt": "2026-11-11T19:34:45.479Z",
-      "lastSeenPush": "2026-11-11T12:15:17Z",
+      "lastGoodSha": "db284123511fd06a3827d03653e005a462645152",
+      "lastGoodAt": "2026-11-12T19:53:10.789Z",
+      "lastSeenPush": "2026-11-12T08:51:19Z",
       "firstIndexedAt": "2026-07-26T23:33:45.359Z",
-      "lastCheckedAt": "2026-11-11T19:34:45.479Z",
+      "lastCheckedAt": "2026-11-12T19:53:10.789Z",
       "goneAt": null,
       "componentHashes": [
         "facd5518ce097e3ce8eee8511773eff3212ffcfab6d01dcbe43d718feebc53d4",

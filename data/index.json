@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:08:49.937Z",
+  "generatedAt": "2026-11-12T19:53:10.789Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,7 +300,7 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 59826,
+      "stars": 59942,
       "pushedAt": "2026-11-11T17:49:23Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 301549,
+      "stars": 301910,
       "pushedAt": "2026-11-09T04:56:24Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3595,8 +3595,8 @@
       "name": "alloydb-plugin",
       "tier": "A",
       "listable": true,
-      "publishSha": "42db954dda09c4d25a236f7ca88648ddb77023af",
-      "headSha": "42db954dda09c4d25a236f7ca88648ddb77023af",
+      "publishSha": "db284123511fd06a3827d03653e005a462645152",
+      "headSha": "db284123511fd06a3827d03653e005a462645152",
       "servingStale": false,
       "health": "ok",
       "description": "Create, connect, and interact with an AlloyDB for PostgreSQL database and data.",
@@ -3624,7 +3624,7 @@
         }
       ],
       "stars": 25,
-      "pushedAt": "2026-11-11T12:15:17Z",
+      "pushedAt": "2026-11-12T08:51:19Z",
       "createdAt": "2025-09-12T15:32:54Z",
       "license": "Apache-2.0",
       "isFork": false,
@@ -3710,7 +3710,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.644
+      "score": 0.643
     },
     {
       "slug": "alloydb-omni",
@@ -3757,7 +3757,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.599
+      "score": 0.598
     },
     {
       "slug": "aikido-claude-plugin",
