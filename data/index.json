@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T19:53:10.789Z",
+  "generatedAt": "2026-11-13T06:44:00.637Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,14 +300,14 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 59942,
+      "stars": 60017,
       "pushedAt": "2026-11-11T17:49:23Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.881
+      "score": 0.88
     },
     {
       "slug": "everything-claude-code",
@@ -2877,7 +2877,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 301910,
+      "stars": 302119,
       "pushedAt": "2026-11-09T04:56:24Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3579,14 +3579,14 @@
           "description": "Find leads matching criteria and bulk-add them to an Apollo outreach sequence. Handles enrichment, contact creation, deduplication, and enrollment in one flow."
         }
       ],
-      "stars": 39,
+      "stars": 40,
       "pushedAt": "2026-11-03T22:37:27Z",
       "createdAt": "2026-02-19T10:47:36Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.705
+      "score": 0.706
     },
     {
       "slug": "alloydb",
