@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:27:47.766Z",
+  "generatedAt": "2026-11-18T20:30:08.028Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,8 +300,8 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 61098,
-      "pushedAt": "2026-11-18T01:16:17Z",
+      "stars": 61216,
+      "pushedAt": "2026-11-18T18:11:26Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
@@ -2948,7 +2948,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 305842,
+      "stars": 306383,
       "pushedAt": "2026-11-17T06:41:46Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3593,7 +3593,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.736
+      "score": 0.735
     },
     {
       "slug": "apollo-mcp-plugin",
@@ -3774,7 +3774,7 @@
           "name": "README"
         }
       ],
-      "stars": 117,
+      "stars": 118,
       "pushedAt": "2026-09-12T23:48:39Z",
       "createdAt": "2026-04-10T17:11:28Z",
       "license": "NOASSERTION",
@@ -3882,14 +3882,14 @@
           "description": "Configures the Aikido plugin by signing the user in through the MCP login tool and verifying the MCP server. Use when the user wants to set up or verify the Aikido plugin, after installing it, when aikido mcp tool call fails or is unavailable, or when the user wants to switch Aikido accounts or re-authenticate."
         }
       ],
-      "stars": 15,
-      "pushedAt": "2026-11-05T16:03:26Z",
+      "stars": 17,
+      "pushedAt": "2026-11-18T14:11:23Z",
       "createdAt": "2026-02-27T14:09:04Z",
       "license": null,
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.573
+      "score": 0.585
     }
   ]
 }
