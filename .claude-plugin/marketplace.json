@@ -18,12 +18,12 @@
       "source": {
         "source": "url",
         "url": "https://github.com/coreyhaines31/marketingskills.git",
-        "sha": "73573e94a06a39965978b3fa1f9c1eace8cebc7c"
+        "sha": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1"
       }
     },
     {
       "name": "everything-claude-code",
-      "description": "Harness-native ECC plugin for engineering teams - 72 agents, 327 skills, 98 legacy command shims, reusable hooks, rules, MCP conventions, and operator workflows for Claude Code plus adjacent agent harnesses",
+      "description": "Harness-native ECC plugin for engineering teams - 72 agents, 328 skills, 99 legacy command shims, reusable hooks, rules, MCP conventions, and operator workflows for Claude Code plus adjacent agent harnesses",
       "author": {
         "name": "affaan-m",
         "url": "https://github.com/affaan-m"
@@ -32,7 +32,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/affaan-m/ECC.git",
-        "sha": "3f14a103a8694e51c1df9a806217a6d0b5f7a6f7"
+        "sha": "4adeee6732a12d1540f49a4d50a38ce8c97f9a53"
       }
     },
     {
