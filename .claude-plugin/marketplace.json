@@ -74,7 +74,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleCloudPlatform/alloydb-plugin.git",
-        "sha": "db284123511fd06a3827d03653e005a462645152"
+        "sha": "f4f1bc4af277d16008669477cd3a46da86100955"
       }
     },
     {
