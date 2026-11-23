@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:36:53.581Z",
+  "generatedAt": "2026-11-23T23:52:26.008Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,8 +11,8 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
-      "headSha": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "publishSha": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
+      "headSha": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
@@ -300,14 +300,14 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 62114,
-      "pushedAt": "2026-11-20T02:15:08Z",
+      "stars": 62255,
+      "pushedAt": "2026-11-23T21:01:10Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.881
+      "score": 0.883
     },
     {
       "slug": "everything-claude-code",
@@ -2958,7 +2958,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 309171,
+      "stars": 309570,
       "pushedAt": "2026-11-23T04:55:48Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3603,7 +3603,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.734
+      "score": 0.733
     },
     {
       "slug": "apollo-mcp-plugin",
@@ -3660,7 +3660,7 @@
           "description": "Find leads matching criteria and bulk-add them to an Apollo outreach sequence. Handles enrichment, contact creation, deduplication, and enrollment in one flow."
         }
       ],
-      "stars": 42,
+      "stars": 43,
       "pushedAt": "2026-11-23T05:10:09Z",
       "createdAt": "2026-02-19T10:47:36Z",
       "license": "MIT",
