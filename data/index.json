@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:32:27.794Z",
+  "generatedAt": "2026-11-25T21:40:52.579Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -300,14 +300,14 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 62516,
-      "pushedAt": "2026-11-24T01:53:15Z",
+      "stars": 62624,
+      "pushedAt": "2026-11-25T17:37:26Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.882
+      "score": 0.883
     },
     {
       "slug": "everything-claude-code",
@@ -2958,7 +2958,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 310384,
+      "stars": 310675,
       "pushedAt": "2026-11-23T04:55:48Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3661,13 +3661,13 @@
         }
       ],
       "stars": 43,
-      "pushedAt": "2026-11-23T05:10:09Z",
+      "pushedAt": "2026-11-25T21:36:25Z",
       "createdAt": "2026-02-19T10:47:36Z",
       "license": "MIT",
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.715
+      "score": 0.716
     },
     {
       "slug": "alloydb",
