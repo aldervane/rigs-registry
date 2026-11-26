@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:16:12.996Z",
+  "generatedAt": "2026-11-26T21:30:18.479Z",
   "marketplace": "rigs",
   "registryRepo": "redyasar10-web/rigs-registry",
   "topic": "claude-rig",
@@ -11,8 +11,8 @@
       "name": "marketingskills",
       "tier": "A",
       "listable": true,
-      "publishSha": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
-      "headSha": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
+      "publishSha": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
+      "headSha": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
       "servingStale": false,
       "health": "ok",
       "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, ad creative, and growth",
@@ -300,8 +300,8 @@
           "description": "When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar, generated, or templated) or how to make videos repeatably: product demos, AI generation (Veo, Sora, HeyGen), programmatic video with Remotion. For what to post, see social. For video ads, see ad-creative."
         }
       ],
-      "stars": 62718,
-      "pushedAt": "2026-11-25T17:37:26Z",
+      "stars": 62835,
+      "pushedAt": "2026-11-26T17:57:51Z",
       "createdAt": "2026-01-15T19:45:23Z",
       "license": "MIT",
       "isFork": false,
@@ -2958,7 +2958,7 @@
           "description": "Convene a four-voice council for ambiguous decisions, tradeoffs, and go/no-go calls. Use when multiple valid paths exist and you need structured disagreement before choosing."
         }
       ],
-      "stars": 310896,
+      "stars": 311247,
       "pushedAt": "2026-11-23T04:55:48Z",
       "createdAt": "2026-01-18T00:51:51Z",
       "license": "MIT",
@@ -3796,7 +3796,7 @@
       "isFork": false,
       "isDerivative": false,
       "stale": false,
-      "score": 0.64
+      "score": 0.639
     },
     {
       "slug": "alloydb-omni",

@@ -5,11 +5,11 @@
     "coreyhaines31/marketingskills": {
       "health": "ok",
       "consecutiveFailures": 0,
-      "lastGoodSha": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
-      "lastGoodAt": "2026-11-25T21:40:52.579Z",
-      "lastSeenPush": "2026-11-25T17:37:26Z",
+      "lastGoodSha": "2bf95edb4ebd37198ab7fd18b99ba95c2145ec64",
+      "lastGoodAt": "2026-11-26T21:30:18.479Z",
+      "lastSeenPush": "2026-11-26T17:57:51Z",
       "firstIndexedAt": "2026-07-26T23:33:45.359Z",
-      "lastCheckedAt": "2026-11-25T21:40:52.579Z",
+      "lastCheckedAt": "2026-11-26T21:30:18.479Z",
       "goneAt": null,
       "componentHashes": [
         "165d7e77c984a90a1bdfb2349f2cb57fc144dd357ddf69bd3c85828e0355c547",
